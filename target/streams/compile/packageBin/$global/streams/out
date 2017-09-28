@@ -1,0 +1,11 @@
+[0m[[0minfo[0m] [0mPackaging /home/nam/dev/SBTSparkProject/target/scala-2.10/sbtsparkproject_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	MLClustering$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nam/dev/SBTSparkProject/target/scala-2.10/classes/MLClustering$.class[0m
+[0m[[0mdebug[0m] [0m	MLClustering$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nam/dev/SBTSparkProject/target/scala-2.10/classes/MLClustering$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	MLClustering$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nam/dev/SBTSparkProject/target/scala-2.10/classes/MLClustering$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	MLClustering.class[0m
+[0m[[0mdebug[0m] [0m	  /home/nam/dev/SBTSparkProject/target/scala-2.10/classes/MLClustering.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
